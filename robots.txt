@@ -1,1 +1,1 @@
-Sitemap: https://yoursite.github.io/sitemap.xml
+Sitemap: https://yunisovayana.github.io/it-kotiki/sitemap.xml
